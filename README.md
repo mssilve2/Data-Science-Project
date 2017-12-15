@@ -1,8 +1,12 @@
 # Data-Science-Project
 Raveesha Gupta
+
 Sarita Sapkota
+
 Max Silverstein
+
 Team Delta
+
 December 14, 2017
 
 In order to run our machine learning model, first run "Team+Delta+Data+Science+Project+Part+1+Data+Merging.ipynb"
